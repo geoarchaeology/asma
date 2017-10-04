@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-# Applied Soils and Micromorphology in Archaeology - Online
+# Applied Soils and Micromorphology in Archaeology
 
 
 This is the Online Appendix for the Publication "Applied Soils and Micromorphology in Archaeology" by Richard MacPhail and Paul Goldberg. Find more Informations at the [Pubilsher's Website (Cambridge University Press)](https://www.cambridge.org/core/books/applied-soils-and-micromorphology-in-archaeology/69FE9D64A2C0E42E6B9997A7616635AC).
@@ -15,10 +15,9 @@ As all contents on [geoarchaeology.info](https://www.geoarchaeology.info), the a
 |5.x|[Online Appendix 5.x](Chapter_05/Online_Appendix_5/Online_Appendix_5.md)|
 |6.x|[Online Appendix 6.x](Chapter_06/Online_Appendix_6/Online_Appendix_6.md)|
 |7.x|[Online Appendix 7.x](Chapter_07/Online_Appendix_7/Online_Appendix_7.md)|
-|7.2||
-|8.1||
-|10.1||
-|10.2||
+|8.1|[Online Appendix 8.1](Chapter_08/Online_Appendix_8.1/Online_Appendix_8.1.md)|
+|10.1|[Online Appendix 10.1](Chapter_10/Online_Appendix_10.1/Online_Appendix_10.1.md)|
+|10.2|[Online Appendix 10.2](Chapter_10/Online_Appendix_10.2/Online_Appendix_10.2.md)|
 |11.2||
 |11.3||
 
@@ -44,6 +43,9 @@ As all contents on [geoarchaeology.info](https://www.geoarchaeology.info), the a
 * [Chapter 5](Chapter_05/Chapter_05.md)
 * [Chapter 6](Chapter_06/Chapter_06.md)
 * [Chapter 7](Chapter_07/Chapter_07.md)
+* [Chapter 8](Chapter_08/Chapter_08.md)
+* [Chapter 9](Chapter_09/Chapter_09.md)
+* [Chapter 10](Chapter_10/Chapter_10.md)
 
 ## Repositories
 
