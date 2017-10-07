@@ -32,9 +32,9 @@ This
 |6.1|[Panorama of breached sea wall and newly inundated coast](Chapter_06/Online_Video_6.1/Online_Video_6.1.md)|
 |11.1|[Chalcolithic tell layers and step excavation](Chapter_11/Online_Video_11.1/Online_Video_11.1.md)|
 |11.2|[Wheel rut wash - trackway across island to tell](Chapter_11/Online_Video_11.2/Online_Video_11.2.md)|
-|11.3|Sheep herd transhumance along a 'drai' routeway from Provencal coastal lowlands|
-|11.4|Sheep herd transhumance - lunchtime grazing break|
-|11.5|Reconstructed Iron Age-Migration-Viking period Fortified settlement of Eketorps with free-ranging pigs.|
+|11.3|[Sheep herd transhumance along a 'drai' routeway from Provencal coastal lowlands](Chapter_11/Online_Video_11.3/Online_Video_11.3.md)|
+|11.4|[Sheep herd transhumance - lunchtime grazing break](Chapter_11/Online_Video_11.4/Online_Video_11.4.md)|
+|11.5|[Reconstructed Iron Age-Migration-Viking period Fortified settlement of Eketorps with free-ranging pigs](Chapter_11/Online_Video_11.5/Online_Video_11.5.md)|
 
 ## Appendencies by Chapters
 
@@ -47,11 +47,14 @@ This
 * [Chapter 8](Chapter_08/Chapter_08.md)
 * [Chapter 9](Chapter_09/Chapter_09.md)
 * [Chapter 10](Chapter_10/Chapter_10.md)
+* [Chapter 11](Chapter_11/Chapter_11.md)
+* [Chapter 12](Chapter_12/Chapter_12.md)
 
 ## Repositories
 
 |Repository|Files|
 |---|---|
+|[geoarchaeology.info](https://github.com/geoarchaeology/asma)|Landing Page|
 |[github.com](https://github.com/geoarchaeology/asma)|All Files|
 |[youtube](https://www.youtube.com/playlist?list=PLy17Wlr-9m8LHwMGBUjg9hkD82B3XtP0c)|Videos only|
 

@@ -12,7 +12,7 @@ https://youtu.be/c7tFXEVo1_M
 
 |version|file|
 |---|---|
-|Rawfile| [11I_MVI_0472_Bordusani-Tell.AVI](11I_MVI_0472_Bordusani-Tell.AVI)|
+|Rawfile| [11I_MVI_0472_Bordusani-Tell.AVI]("11I_MVI_0472_Bordusani-Tell.AVI")|
 
 ## Metadata
 

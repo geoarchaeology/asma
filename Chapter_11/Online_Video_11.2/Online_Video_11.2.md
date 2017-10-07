@@ -2,11 +2,11 @@
 
 ## Streams
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=c7tFXEVo1_M
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=i7x1OKXraQk
 " target="_blank"><img src="Wheel rut wash - trackway across island to tell.gif" 
 alt="Wheel rut wash - trackway across island to tell.gif" width="320" border="10" /></a>
 
-* https://youtu.be/c7tFXEVo1_M
+* https://youtu.be/i7x1OKXraQk
 
 ## Files
 
@@ -26,8 +26,7 @@ alt="Wheel rut wash - trackway across island to tell.gif" width="320" border="10
 |Chapter|11|
 |Location|Borduşani-Popină tell, Borcea River, Romania (near River Danube)|
 |Tags|geoarchaeology, archaeology|
-|Recording Date|23.09.2012|
-|Recording Time|07:20|
+|Recording Date|22.09.2012|
+|Recording Time|07:02|
 |Time Zone|GMT|
-|Duration|00:00:18|
-|raw-filname|11I_MVI_0472_Bordusani-Tell.AVI|
+|Duration|00:00:26|
