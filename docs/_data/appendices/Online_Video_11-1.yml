@@ -1,0 +1,19 @@
+type: video
+title: Chalcolithic tell layers and step excavation
+tags: geoarchaeology, archaeology, tell
+location: Borduşani-Popină tell, Borcea River, Romania (near River Danube)
+chapter: 11
+streams:
+  - url: https://youtu.be/c7tFXEVo1_M
+    host: youtube
+    id: c7tFXEVo1_M
+
+raw:
+  - file: 11I_MVI_0472_Bordusani-Tell
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.1/
+    meta:
+      Recording_Date: 23.09.2012
+      Recording_Time: "07:20" 
+      Time_Zone: GMT 
+      Duration: "00:00:18"

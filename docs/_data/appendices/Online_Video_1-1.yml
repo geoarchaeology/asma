@@ -1,0 +1,14 @@
+type: video
+title: Monolith sampling of Iron Age-Viking colluvium using plastic down-pipe
+location: E18 highway, Hesby, Vestfold, Norway
+streams:
+  - url: https://youtu.be/uJ8miHc1Clk
+    host: youtube
+    id: uJ8miHc1Clk
+
+raw:
+  - file: 1A_MOV00319_E18Sampling
+    filetype: MP4
+    filepath: /Chapter_01/Online_Video_1.1/
+    meta:
+      Duration: "00:00:42"

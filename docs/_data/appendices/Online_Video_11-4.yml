@@ -1,0 +1,20 @@
+type: video
+title: Sheep herd transhumance - lunchtime grazing break
+tags: geoarchaeology, archaeology, transhumance
+location: Cevennes, south central France
+chapter: 11
+streams:
+  - url: https://youtu.be/xD0cr5xhnvs
+    host: youtube
+    id: xD0cr5xhnvs
+
+raw:
+  - file: 11B_Cevennes-Transhumance_MVI_1975
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.4/
+  - file: 11C_Cevennes-Transhumance_MVI_1981
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.4/
+  - file: 11D_Cevennes-Transhumance_MVI_1987
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.4/

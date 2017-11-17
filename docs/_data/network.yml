@@ -1,0 +1,16 @@
+- menu_name: "Authors"
+
+- name: "Richard MacPhail"
+  url: "http://www.ucl.ac.uk/archaeology/people/staff/macphail"
+  class: "network-entypo"
+  title: "Richard MacPhail"
+
+- name: "Paul Goldberg"
+  url: "http://www.bu.edu/archaeology/profile/goldberg/"
+  class: "network-entypo"
+  title: "Paul Goldberg"
+
+- name: "Matthias Czechowski"
+  url: "https://matthias-czechowski.de"
+  class: "network-entypo"
+  title: "Matthias Czechowski (online appendix)"

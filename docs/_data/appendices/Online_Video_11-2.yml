@@ -1,0 +1,25 @@
+type: video
+title: Wheel rut wash - trackway across island to tell
+tags: geoarchaeology, archaeology, tell
+location: Borduşani-Popină tell, Borcea River, Romania (near River Danube)
+chapter: 11
+streams:
+  - url: https://youtu.be/c7tFXEVo1_M
+    host: youtube
+    id: c7tFXEVo1_M
+
+files:
+  - file: Wheel rut wash - trackway across island to tell
+    filetype: mp4
+    filepath: /Chapter_11/Online_Video_11.2/ 
+  - file: Wheel rut wash - trackway across island to tell
+    filetype: gif
+    filepath: /Chapter_11/Online_Video_11.2/  
+
+raw:
+  - file: 11G_MVI_0436_RomanianCart track
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.2/
+  - file: 11H_MVI_0435_RomanianCart_track2
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.2/

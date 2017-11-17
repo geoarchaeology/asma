@@ -1,0 +1,14 @@
+{% assign appendix = site.data.appendices[page.appendix] %}
+
+There is no html version of this appendix available yet. <b>Please download the raw file(s) below.</b>
+If you are familiar with Markdown, please help to convert this file <a href="{{ site.help_edit_url }}/docs/_appendices/{{page.appendix}}.md">here</a>
+
+{% if appendix.raw %}
+		<h2>Raw files</h2>
+				<ul>
+					{% for files in appendix.raw %}
+					{% capture appendix_href %}{{ site.repository_url }}{{ files.filepath }}{{ files.file }}.{{ files.filetype }}{% endcapture %}
+					<li><a href="{{ appendix_href | url_escape }}">{{ files.file }}.{{ files.filetype }}</a>  </li>
+					{% endfor %}
+				</ul>			
+{% endif %}

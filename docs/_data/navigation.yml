@@ -1,0 +1,54 @@
+- title: Start
+  url: "/"
+  side: left
+
+- title: "Online Appendix"
+  side: left
+  dropdown:
+  - title: "4"
+    url: "/appendices/Online_Appendix_4/"
+  - title: "5"
+    url: "/appendices/Online_Appendix_5/"
+  - title: "7"
+    url: "/appendices/Online_Appendix_7/"  
+  - title: "8.1"
+    url: "/appendices/Online_Appendix_8.1/"
+  - title: "10.1"
+    url: "/appendices/Online_Appendix_10.1/"
+  - title: "10.2"
+    url: "/appendices/Online_Appendix_10.2/"
+  - title: "11"
+    url: "/appendices/Online_Appendix_11/"
+
+
+- title: "Online Video"
+  side: left
+  dropdown:
+  - title: "1.1"
+    url: "/appendices/Online_Video_1.1/"
+  - title: "1.2"
+    url: "/appendices/Online_Video_1.2/"
+  - title: "5.1"
+    url: "/appendices/Online_Video_5.1/"
+  - title: "6.1"
+    url: "/appendices/Online_Video_6.1/"  
+  - title: "11.1"
+    url: "/appendices/Online_Video_11.1/"
+  - title: "11.2"
+    url: "/appendices/Online_Video_11.2/"    
+  - title: "11.3"
+    url: "/appendices/Online_Video_11.3/"
+  - title: "11.4"
+    url: "/appendices/Online_Video_11.4/"
+
+- title: "License"
+  side: left
+  url: "/appendices/Online_Appendix_4/"
+
+- title: "About"
+  side: left
+  url: "/appendices/Online_Appendix_4/"
+
+- title: "Help"
+  side: left
+  url: "/appendices/Online_Appendix_4/"

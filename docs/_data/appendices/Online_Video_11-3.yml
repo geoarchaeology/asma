@@ -1,0 +1,19 @@
+type: video
+title: Sheep herd transhumance along a 'drai' routeway from Provencal coastal lowlands
+tags: geoarchaeology, archaeology, transhumance
+location: Cevennes, south central France
+chapter: 11
+streams:
+  - url: https://youtu.be/Y4v5-v7zffU
+    host: youtube
+    id: Y4v5-v7zffU
+
+raw:
+  - file: 11A_Cevennes-Transhumance_MVI_2044
+    filetype: AVI
+    filepath: /Chapter_11/Online_Video_11.3/
+    meta:
+      Recording_Date: 13.06.2011|
+      Recording_Time: "08:18" 
+      Time_Zone: GMT 
+      Duration: "00:01:00"

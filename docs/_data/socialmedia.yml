@@ -1,0 +1,39 @@
+- name: GitHub
+  url: http://github.com/geoarchaeology
+  class: icon-github
+  title: "Geoarchaeology.info on GitHub"
+
+- name: YouTube
+  url: http://www.youtube.com/
+  class: icon-youtube
+  title: "Geoarchaeology.info YouTube Channel"
+
+- name: Twitter
+  url: http://twitter.com/GeoArcInfo
+  class: icon-twitter
+  title: "follow us on Twitter"
+
+- name: Facebook
+  url: http://www.facebook.com/geoarchaeologyinfo/
+  class: icon-facebook
+  title: "follow us on Facebook"
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil

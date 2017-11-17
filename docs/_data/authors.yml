@@ -1,0 +1,24 @@
+# Author details
+#
+# 1. Edit information below
+# 2. Change site author in config.yml
+# 3. Change default post/page authors in config.yml
+#
+# Resource › http://blog.sorryapp.com/blogging-with-jekyll/2014/02/06/adding-authors-to-your-jekyll-site.html
+RichardMacPhail: # replace this with your info
+  name: "Richard MacPhail"
+  siterole: "author"
+  uri: http://www.ucl.ac.uk/archaeology/people/staff/macphail
+
+PaulGoldberg: # replace this with your info
+  name: "Paul Goldberg"
+  siterole: "author"
+  uri: http://www.bu.edu/archaeology/profile/goldberg
+
+MatthiasCzechowski: # replace this with your info
+  name: "Matthias Czechowski"
+  siterole: "webmaster"
+  uri: http://matthias-czechowski.de/
+  email: "webmaster@geoarchaeology.info"
+  twitter: "@bavyeti"
+# you can add more authors here

@@ -1,0 +1,53 @@
+
+<aside>
+	{% assign appendix = site.data.appendices[page.appendix] %}
+
+
+	{% if appendix.streams %}
+	<div class="panel radius">
+	
+		<h3>Stream</h3>
+		<span>watch this on:</span>
+		<ul>
+			{% for stream in appendix.streams %}
+			<li><a href="{{ stream.url }}">{{ stream.host}}</a>  </li>
+			{% endfor %}
+			</ul>
+		</div>
+{% endif %}
+	
+	{% if appendix.files %}
+		<div class="panel radius">
+		
+			<h3>Download</h3>
+			<ul>
+				{% for file in appendix.files %}
+				{% capture appendix_href %}{{ site.repository_url }}{{ file.filepath }}{{ file.file }}.{{ file.filetype }}{% endcapture %}
+				<li><a href="{{ appendix_href | url_escape }}">{{ file.filetype }}</a>  </li>
+				{% endfor %}
+				</ul>
+		</div>
+	{% endif %}
+
+	{% if appendix.raw %}
+		<div class="panel radius">		
+				<h3>Raw files </h3>
+				<span>Download the unedited source(s) for this:</span>
+				<ul>
+					{% for files in appendix.raw %}
+					{% capture appendix_href %}{{ site.repository_url }}{{ files.filepath }}{{ files.file }}.{{ files.filetype }}{% endcapture %}
+					<li><a href="{{ appendix_href | url_escape }}">{{ files.file }}.{{ files.filetype }}</a>  </li>
+					{% endfor %}
+				</ul>
+		
+			</div>
+		{% endif %}
+
+	<div class="border-dotted radius b30">
+		<h3>Found a mistake?</h3>
+		<p>Improve this page yourself on <a href="{{ help_edit_url }}">{{ help_edit_service }}</a> </p>
+		<p>or <a href="">Contact us</a> </p>
+
+
+	</div>
+</aside>

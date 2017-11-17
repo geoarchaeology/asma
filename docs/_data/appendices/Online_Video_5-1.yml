@@ -1,0 +1,18 @@
+type: video
+title: Geological section of alluvial soil-sediments (with red clay occupation levels) over Late Pleistocene basal lava flow
+tags: geoarchaeology, archaeology
+location: Chongokni, Hantan River, Republic of Korea 
+streams:
+  - url: https://youtu.be/49CI6LbsmB0
+    host: youtube
+    id: T7LOQ8NaL3M
+
+raw:
+  - file: 1B_MVI_0688_CGN_sampling
+    filetype: avi
+    filepath: /Chapter_05/Online_Video_5.1/
+    meta:
+      Recording_Date: 11.10.2009 
+      Recording_Time: "03:55" 
+      Time_Zone: GMT 
+      Duration: "00:00:18"

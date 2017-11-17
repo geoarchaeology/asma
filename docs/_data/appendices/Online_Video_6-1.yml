@@ -1,0 +1,18 @@
+type: video
+title: Panorama of breached sea wall and newly inundated coast
+tags: geoarchaeology, archaeology
+location: Wallasea island, Essex, UK
+streams:
+  - url: https://youtu.be/7xlhL7jCE8I
+    host: youtube
+    id: 7xlhL7jCE8I
+
+raw:
+  - file: 6A_MVI_0127_Wallasea
+    filetype: AVI
+    filepath: /Chapter_06/Online_Video_6.1/
+    meta:
+      Recording_Date: 15.07.2008
+      Recording_Time: "03:55" 
+      Time_Zone: GMT 
+      Duration: "00:00:28"

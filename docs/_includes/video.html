@@ -1,0 +1,35 @@
+{% assign appendix = site.data.appendices[page.appendix] %}
+<h1>{{ appendix.title }}</h1>
+{% for stream in appendix.streams %}
+	{% if stream.host == "youtube" %}
+		<div class="row">
+			<div class="small-12 columns">
+				<article itemprop="video" itemscope itemtype="http://schema.org/VideoObject">
+					<div class="flex-video">
+						<iframe width='560' height='315' src='https://www.youtube.com/embed/{{ stream.id }}' frameborder='0' allowfullscreen>
+						</iframe>
+						<a href="{{ stream.url }}">{{ stream.host}}</a>
+					</div>
+				</article>
+			</div>
+		</div>		
+	 {% endif %}
+
+{% endfor %}
+{% if appendix.location %}	
+	<h2>Location</h2>
+	{{ appendix.location}}
+{% endif %}
+{% if appendix.raw %}	
+<h2>Rawfiles</h2>
+<p>unedited source(s) for this Video</p>
+{% for raw in appendix.raw %}
+	{% capture appendix_href %}{{ site.repository_url }}{{ raw.filepath }}{{ raw.file }}.{{ raw.filetype }}{% endcapture %}
+
+ 	<h3>{{ raw.file}}.{{ raw.filetype }}</h3>
+ 	<p><a href="{{ appendix_href | url_escape }}">Download</a></p>
+	 {% for meta in raw.meta %}
+		<p>{{ meta[0] | replace: "_", " " }}: {{ meta[1] }} </p>
+	{% endfor %}
+{% endfor %}
+{% endif %}

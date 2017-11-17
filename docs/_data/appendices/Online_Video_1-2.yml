@@ -1,0 +1,12 @@
+type: video
+streams:
+  - url: https://youtu.be/T7LOQ8NaL3M
+    host: youtube
+    id: T7LOQ8NaL3M
+    width: 560
+    height: 315
+
+raw:
+  - file: 1C_MVI_0474_RomaniaSampling
+    filetype: AVI
+    filepath: /Chapter_01/Online_Video_1.2/
