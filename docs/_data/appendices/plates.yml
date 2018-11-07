@@ -2,4 +2,4 @@ type: document
 raw:
   - file: plates
     filetype: docx
-    filepath: /plates
+    filepath: /plates/
