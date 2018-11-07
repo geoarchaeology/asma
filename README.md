@@ -7,7 +7,7 @@ This is the Online Appendix for the Publication "Applied Soils and Micromorpholo
 
 As all contents on [geoarchaeology.info](https://www.geoarchaeology.info), the appendix is maintained by the geoarchaeology working group at the Institute for Archaeological Sciences, University of Tübingen.
 
-This 
+This
 
 ## Online Appendices
 
@@ -55,7 +55,9 @@ This
 |Repository|Files|
 |---|---|
 |[geoarchaeology.info](https://github.com/geoarchaeology/asma)|Landing Page|
+|[asma.geoarchaeology.info](https://github.com/geoarchaeology/asma)|Main Website|
 |[github.com](https://github.com/geoarchaeology/asma)|All Files|
+|[git.geoarchlab.de](https://git.geoarchlab.de/matthias/asma)|All Files|
 |[youtube](https://www.youtube.com/playlist?list=PLy17Wlr-9m8LHwMGBUjg9hkD82B3XtP0c)|Videos only|
 
 ## License
